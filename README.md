@@ -1,0 +1,4 @@
+- Bootstrap
+- styled components
+- use state
+- Axios
